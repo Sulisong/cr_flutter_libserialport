@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-set(PROJECT_NAME "flutter_libserialport")
+set(PROJECT_NAME "cr_flutter_libserialport")
 project(${PROJECT_NAME} LANGUAGES CXX)
 
 set(PLUGIN_NAME "${PROJECT_NAME}_plugin")

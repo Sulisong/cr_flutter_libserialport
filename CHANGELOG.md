@@ -1,3 +1,19 @@
+## 0.3.0+2
+
+* fix linux take two
+
+## 0.3.0+2
+
+* fix linux
+
+## 0.3.0+1
+
+* update name
+
+## 0.2.3+1
+
+* perfomance upgrade on dart library
+
 ## 0.2.3
 
 * Fix linux builds for newer kernels (thanks @sitic)

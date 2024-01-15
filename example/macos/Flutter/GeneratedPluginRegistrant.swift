@@ -5,8 +5,8 @@
 import FlutterMacOS
 import Foundation
 
-import flutter_libserialport
+import cr_flutter_libserialport
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
-  FlutterLibserialportPlugin.register(with: registry.registrar(forPlugin: "FlutterLibserialportPlugin"))
+  CrFlutterLibserialportPlugin.register(with: registry.registrar(forPlugin: "CrFlutterLibserialportPlugin"))
 }

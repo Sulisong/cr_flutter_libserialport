@@ -1,5 +1,5 @@
+import 'package:crlibserialport/crlibserialport.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_libserialport/flutter_libserialport.dart';
 
 void main() => runApp(ExampleApp());
 
